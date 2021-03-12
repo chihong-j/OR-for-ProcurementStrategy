@@ -82,7 +82,7 @@
   1. 連結&nbsp;<img src="https://render.githubusercontent.com/render/math?math=x_{tif}">&nbsp;和&nbsp;<img src="https://render.githubusercontent.com/render/math?math=R_{if}">：每個商品只能透過允許的運輸方式訂購
   2. 連結&nbsp;<img src="https://render.githubusercontent.com/render/math?math=x_{tif}">&nbsp;和&nbsp;<img src="https://render.githubusercontent.com/render/math?math=w_{tf}">
   3. 設定&nbsp;<img src="https://render.githubusercontent.com/render/math?math=x_{tif}">&nbsp;的最大值
-    &nbsp;&nbsp;+ <img src="https://render.githubusercontent.com/render/math?math=x_{tif} \le R_{if} w_{tf} \cdot {\rm max} \{ \sum_{t^{'}\in T} (D_{t^{'}i} - Q_{t^{'}i}) - I_i^0">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=1,0 \}">
+    + &nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=x_{tif} \le R_{if} w_{tf} \cdot {\rm max} \{ \sum_{t^{'}\in T} (D_{t^{'}i} - Q_{t^{'}i}) - I_i^0">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=1,0 \}">
 
 <br>
 <img src="https://render.githubusercontent.com/render/math?math=">
