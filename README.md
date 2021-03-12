@@ -84,6 +84,7 @@
   3. 設定&nbsp;<img src="https://render.githubusercontent.com/render/math?math=x_{tif}">&nbsp;的最大值
     + &nbsp;<img src="https://render.githubusercontent.com/render/math?math=x_{tif} \le R_{if} w_{tf} \cdot {\rm max} \{ \sum_{t^{'}\in T} (D_{t^{'}i} - Q_{t^{'}i}) - I_i^0">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=1,0 \}">&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall t \in T ,\ \forall i \in I ,\ \forall f \in F">
 + <img src="https://render.githubusercontent.com/render/math?math=x_{tif}">是非負整數：
+  + <img src="https://render.githubusercontent.com/render/math?math=x_{tif} \in \Z_+">&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall t \in T ,\ \forall i \in I ,\ \forall f \in F">
 + <img src="https://render.githubusercontent.com/render/math?math=w_{tf}">是二元變數：
 
 <br>
