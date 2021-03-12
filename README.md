@@ -54,3 +54,4 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=" style="border:none;">
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
