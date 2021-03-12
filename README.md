@@ -68,7 +68,7 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 
 ### Constraints 
 期末存貨平衡式：
-<img src="https://render.githubusercontent.com/render/math?math=y_{ti} - z_{ti} = y_{t-1,i}-\beta z_{t-1,i}">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\sum_{f \in F L_f \lt t}">
-<img src="https://render.githubusercontent.com/render/math?math=x_{t-L_f,i,f}">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=Q_{ti} - D_{ti}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math= \forall t \in T ,\ \forall i \in I">
+<img src="https://render.githubusercontent.com/render/math?math=y_{ti} - z_{ti} = y_{t-1,i}-\beta z_{t-1,i}">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\sum_{f \in F ,\ L_f \lt t}">(&nbsp;
+<img src="https://render.githubusercontent.com/render/math?math=x_{t-L_f,i,f}">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=Q_{ti} - D_{ti}">)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall t \in T ,\ \forall i \in I">
 
 <img src="https://render.githubusercontent.com/render/math?math=">
