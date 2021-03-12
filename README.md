@@ -78,7 +78,10 @@
   + <img src="https://render.githubusercontent.com/render/math?math=z_{0,i} = {\rm max} {(-I_i^0, 0)}">&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall i \in I">
   + <img src="https://render.githubusercontent.com/render/math?math=y_{ti} \ge 0">&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall t \in T ,\ \forall i \in I">
   + <img src="https://render.githubusercontent.com/render/math?math=z_{ti} \ge 0">&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall t \in T ,\ \forall i \in I">
-
++ 下面限制式滿足以下三個條件：
+  1. 連結<img src="https://render.githubusercontent.com/render/math?math=x_{tif}">和<img src="https://render.githubusercontent.com/render/math?math=R_{if}">：每個商品只能透過允許的運輸方式訂購
+  2. 連結<img src="https://render.githubusercontent.com/render/math?math=x_{tif}">和<img src="https://render.githubusercontent.com/render/math?math=w_{tf}">
+  3. 設定<img src="https://render.githubusercontent.com/render/math?math=x_{tif}">的最大值
 
 <br>
 <img src="https://render.githubusercontent.com/render/math?math=">
