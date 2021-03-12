@@ -1,7 +1,6 @@
 # 10-10_APOTHECARY
 
-Optomaztion of procurement strategy for 10/10 Apothecary
-
+最佳化訂貨策略實作
 
 ## 公司簡介
 客林國際股份有限公司主要經營化妝品、保養品與香氛商品的進口業務，旗下商品種類多樣，於許多知名百貨公司皆有設櫃。
@@ -72,11 +71,10 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 
 ### Constraints 
 + 期末存貨平衡式：
-<img src="https://render.githubusercontent.com/render/math?math=y_{ti} - z_{ti} = y_{t-1,i}-\beta z_{t-1,i}">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\sum_{f \in F ,\ L_f \lt t}">
+  + <img src="https://render.githubusercontent.com/render/math?math=y_{ti} - z_{ti} = y_{t-1,i}-\beta z_{t-1,i}">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\sum_{f \in F ,\ L_f \lt t}">
 <img src="https://render.githubusercontent.com/render/math?math=(x_{t-L_f,i,f}">&nbsp;+&nbsp;<img src="https://render.githubusercontent.com/render/math?math=Q_{ti} - D_{ti})">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall t \in T ,\ \forall i \in I">
 + 設定<img src="https://render.githubusercontent.com/render/math?math=y_{0,i}">和<img src="https://render.githubusercontent.com/render/math?math=z_{0,i}">的初始值：
-<br>
-<img src="https://render.githubusercontent.com/render/math?math=y_{0,i} = {\rm max} {(I_i^0, 0)}">&nbsp;&nbsp;&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall i \in I">
+  + <img src="https://render.githubusercontent.com/render/math?math=y_{0,i} = {\rm max} {(I_i^0, 0)}">&nbsp;<img src="https://render.githubusercontent.com/render/math?math=\forall i \in I">
 
 $$y_{0,i} = {\rm max}\{ I_i^0,\ 0\} \qquad \forall i \in I$$
 
