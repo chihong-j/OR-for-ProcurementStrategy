@@ -37,7 +37,7 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 ### 架構
 ![image](resources/5.jpg)
 ### Sets & Indices
-![](http://latex.codecogs.com/gif.latex?\\{T})是所有期數的集合
+![](http://latex.codecogs.com/gif.latex?\\T)是所有期數的集合
 ### Decision Variables
 
 ### Parameters
