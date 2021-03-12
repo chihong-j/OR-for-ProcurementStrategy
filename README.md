@@ -46,7 +46,9 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 + <img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 1 " style="border:none;">代表快遞，<img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 2 " style="border:none;">代表空運，<img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 3 " style="border:none;">代表海運
 ### Decision Variables
 + <img src="https://render.githubusercontent.com/render/math?math=x_{tif}">：第 t 期商品 i 利用運輸方式 f 訂貨量（單位：package）
-+ <img src="https://render.githubusercontent.com/render/math?math=y_{tif}">第 t 期商品 i 的「正」期末存貨（單位：package）；<img src="https://render.githubusercontent.com/render/math?math=\forall t = 0,...,6">
++ <img src="https://render.githubusercontent.com/render/math?math=y_{ti}">：第 t 期商品 i 的「正」期末存貨（單位：package）；<img src="https://render.githubusercontent.com/render/math?math=\forall t = 0,...,6">
++ <img src="https://render.githubusercontent.com/render/math?math=z_{ti}">：第 t 期商品 i 的「負」期末存貨（單位：package）；<img src="https://render.githubusercontent.com/render/math?math=\forall t = 0,...,6">
++ <img src="https://render.githubusercontent.com/render/math?math=w_{tf}">：第 t 期有利用運輸方式 f 訂購任何產品的二元變數，若有，則<img src="https://render.githubusercontent.com/render/math?math=w_{tf} = 1">；若無，則<img src="https://render.githubusercontent.com/render/math?math=w_{tf} = 0">
 ### Parameters
 
 ### Objective function
