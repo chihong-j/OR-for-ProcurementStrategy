@@ -63,7 +63,7 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 + <img src="https://render.githubusercontent.com/render/math?math=R_{if}">：商品 i 是否存在運輸方式 f 的二元參數。若有，則<img src="https://render.githubusercontent.com/render/math?math=R_{if} = 1">；若無，則<img src="https://render.githubusercontent.com/render/math?math=R_{if} = 0">
 + <img src="https://render.githubusercontent.com/render/math?math=\beta_i">：商品 i 的 backorder 比例
 ### Objective function
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= min  " style="border:none;"><img src="https://render.githubusercontent.com/render/math?math=\sum_{t\in T}\sum_{i\in I}\sum_{f\in F} (M_i + G_{if}) x_{tif}  ">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= min   " style="border:none;"><img src="https://render.githubusercontent.com/render/math?math=\sum_{t\in T}\sum_{i\in I}\sum_{f\in F} (M_i + G_{if}) x_{tif} + \sum_{t\in T}\sum_{f\in F}  K_{f} w_{tf} ">
 
 
 ### Constraints 
