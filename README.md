@@ -40,9 +40,9 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 + <img src="http://chart.googleapis.com/chart?cht=tx&chl= T" style="border:none;">是所有期數的集合
 + <img src="http://chart.googleapis.com/chart?cht=tx&chl= I" style="border:none;">是所有商品的集合
 + <img src="http://chart.googleapis.com/chart?cht=tx&chl= F" style="border:none;">是所有運輸方式的集合
-+ <img src="http://chart.googleapis.com/chart?cht=tx&chl= t \in T" style="border:none;"> 
++ <img src="http://chart.googleapis.com/chart?cht=tx&chl= t in T" style="border:none;"> 
 代表整個訂貨計畫中的第 t 期；
-<img src="http://chart.googleapis.com/chart?cht=tx&chl= \T = \{1,...,6\}" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= T = {1,...,6}" style="border:none;">
 
 ### Decision Variables
 
