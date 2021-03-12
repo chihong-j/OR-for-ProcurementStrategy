@@ -50,6 +50,5 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 ![image](resources/12.png)
 ![image](resources/13.png)
 ![image](resources/14.png)
-
-
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
