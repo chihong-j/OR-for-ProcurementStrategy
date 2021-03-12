@@ -47,5 +47,6 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 ### Constraints 
 初始化期初存貨
 ![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
-![1](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
+
+![](http://latex.codecogs.com/svg.latex?\int_a^bf(x)\ dx)
 
