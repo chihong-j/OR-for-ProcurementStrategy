@@ -51,16 +51,16 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 + <img src="https://render.githubusercontent.com/render/math?math=w_{tf}">：第 t 期有利用運輸方式 f 訂購任何產品的二元變數，若有，則<img src="https://render.githubusercontent.com/render/math?math=w_{tf} = 1">；若無，則<img src="https://render.githubusercontent.com/render/math?math=w_{tf} = 0">
 ### Parameters
 + <img src="https://render.githubusercontent.com/render/math?math=Q_{ti}">：商品 i 在第 t 期可用的在途存貨（單位：package）
-+ <img src="https://render.githubusercontent.com/render/math?math=w_{tf} = 1">$I_{0i}$：商品 i 在第 0 期的期末存貨（單位：package）
-+ <img src="https://render.githubusercontent.com/render/math?math=">$D_{ti}$：商品 i 在第 t 期的需求（單位：package）
-+ <img src="https://render.githubusercontent.com/render/math?math=">$M_i$：商品 i 每 package 的進貨價格
-+ <img src="https://render.githubusercontent.com/render/math?math=">$C_i^o$：商品 i 每 package 的存貨成本
-+ <img src="https://render.githubusercontent.com/render/math?math=">$C_i^b$：商品 i 每 package 的 backorder 缺貨成本
-+ <img src="https://render.githubusercontent.com/render/math?math=">$C_i^l$：商品 i 每 package 的 lost sales 缺貨成本
-+ <img src="https://render.githubusercontent.com/render/math?math=">$G_{if}$：商品 i 每 package 利用運輸方式 f 的單位成本
-+ <img src="https://render.githubusercontent.com/render/math?math=">$K_f$：利用運輸方式 f 的固定成本
-+ <img src="https://render.githubusercontent.com/render/math?math=">$L_t$：運輸方式 f 的lead time（單位：月）
-+ <img src="https://render.githubusercontent.com/render/math?math=">$R_{if}$：商品 i 是否存在運輸方式 f 的二元參數。若有，則$R_{if}=1$；若無，則$R_{if}=0$
++ <img src="https://render.githubusercontent.com/render/math?math=I_{0i}">：商品 i 在第 0 期的期末存貨（單位：package）
++ <img src="https://render.githubusercontent.com/render/math?math=D_{ti}">：商品 i 在第 t 期的需求（單位：package）
++ <img src="https://render.githubusercontent.com/render/math?math=M_i">：商品 i 每 package 的進貨價格
++ <img src="https://render.githubusercontent.com/render/math?math=C_i^o">：商品 i 每 package 的存貨成本
++ <img src="https://render.githubusercontent.com/render/math?math=C_i^b">：商品 i 每 package 的 backorder 缺貨成本
++ <img src="https://render.githubusercontent.com/render/math?math=C_i^l">：商品 i 每 package 的 lost sales 缺貨成本
++ <img src="https://render.githubusercontent.com/render/math?math=G_{if}">：商品 i 每 package 利用運輸方式 f 的單位成本
++ <img src="https://render.githubusercontent.com/render/math?math=K_f">：利用運輸方式 f 的固定成本
++ <img src="https://render.githubusercontent.com/render/math?math=L_t">：運輸方式 f 的lead time（單位：月）
++ <img src="https://render.githubusercontent.com/render/math?math=R_{if}">：商品 i 是否存在運輸方式 f 的二元參數。若有，則<img src="https://render.githubusercontent.com/render/math?math=R_{if} = 1">；若無，則<img src="https://render.githubusercontent.com/render/math?math=R_{if} = 0">
 
 $\beta_i$：商品 i 的 backorder 比例
 ### Objective function
