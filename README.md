@@ -35,7 +35,21 @@ Optomaztion of procurement strategy for 10/10 Apothecary
 ## 數學模型
 
 ### 架構
-
+![image](resources/5.jpg)
+### Sets & Indices
+![image](resources/6.jpg)
+### Decision Variables
+![image](resources/7.png)
+### Parameters
+![image](resources/9.png)
+### Objective function
+![image](resources/10.png)
+### Constraints 
+初始化期初存貨
+![image](resources/11.png)
+![image](resources/12.png)
+![image](resources/13.png)
+![image](resources/14.png)
 
 
 
