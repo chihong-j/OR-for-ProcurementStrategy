@@ -49,7 +49,7 @@
 + <img src="https://render.githubusercontent.com/render/math?math=t \in T"> 代表整個訂貨計畫中的第 t 期；<img src="https://render.githubusercontent.com/render/math?math=T = \{1,...,6\}">
 + <img src="https://render.githubusercontent.com/render/math?math=i \in I"> 代表整個訂貨計畫中的第 t 期；<img src="https://render.githubusercontent.com/render/math?math=I = \{1,...,96\}">
 + <img src="https://render.githubusercontent.com/render/math?math=f \in F"> 代表整個訂貨計畫中的第 t 期；<img src="https://render.githubusercontent.com/render/math?math=F = \{1,2,3\}">
-+ <img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 1 " style="border:none;"> 代表快遞，<img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 2 " style="border:none;">代表空運，<img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 3 " style="border:none;">代表海運
++ <img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 1 " style="border:none;"> 代表快遞，<img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 2 " style="border:none;"> 代表空運，<img src="http://chart.googleapis.com/chart?cht=tx&chl= F = 3 " style="border:none;"> 代表海運
 ### Decision Variables
 + <img src="https://render.githubusercontent.com/render/math?math=x_{tif}">：第 t 期商品 i 利用運輸方式 f 訂貨量（單位：package）
 + <img src="https://render.githubusercontent.com/render/math?math=y_{ti}">：第 t 期商品 i 的「正」期末存貨（單位：package）；<img src="https://render.githubusercontent.com/render/math?math=\forall t = 0,...,6">
