@@ -1,8 +1,8 @@
 # OR-for-ProcurementStrategy
 
 最佳化訂貨策略實作
-+ 使用Gurobi取得最佳解
-+ 設計Heuristic演算法逼近最佳解
++ 使用 Gurobi 取得最佳解
++ 設計 Heuristic 演算法逼近最佳解
 
 ## 公司簡介
 10/10 Apothecary<br>
